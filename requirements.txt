@@ -1,0 +1,12 @@
+colorama
+pystyle
+requests
+asyncio
+aiohttp
+json
+string
+random
+pretty_errors
+time
+multiprocessing
+sys
