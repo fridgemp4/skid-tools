@@ -19,7 +19,7 @@ async def send_message(session, webhook_url, message_content, username, successf
 
 async def webhook_spammer():
     webhook_url = input("Webhook URL: ")
-    message_content = ("@everyone @here https://discord.gg/2zUZWqsmgm https://discord.gg/TaAFW8UDa2")
+    message_content = ("@everyone @here https://discord.gg/TaAFW8UDa2")
     username = ("F X")
     num_messages = int(input("Number of messages to send: "))
 
